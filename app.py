@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd # Example: if your local data is in CSV format
 
 # --- Configuration ---
-WHATSAPP_NUMBER = "+1234567890" # Replace with your actual WhatsApp number
+WHATSAPP_NUMBER = "+2348024541916" # Replace with your actual WhatsApp number
 LOCAL_INFO_FILE = 'local_info.txt'
 
 # --- 1. Load Local Information ---
